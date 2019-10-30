@@ -1,0 +1,17 @@
+jvmLearning/chapter02/RuntimeConstantPoolOOM.class
+jvmLearning/chapter03/TestPretenureSizeThreshold.class
+jvmLearning/chapter06/TestClass.class
+jvmLearning/chapter03/TestHandlePromotion.class
+jvmLearning/chapter09/TestClass.class
+jvmLearning/chapter02/HeapOOM$OOMObject.class
+jvmLearning/chapter03/TestTenuringThreshold2.class
+jvmLearning/chapter09/HotSwapClassLoader.class
+jvmLearning/chapter09/ByteUtils.class
+jvmLearning/chapter03/TestAllocation.class
+jvmLearning/chapter09/Test.class
+jvmLearning/chapter03/TestTeunringThreshold.class
+jvmLearning/chapter09/HackSystem.class
+jvmLearning/chapter09/ClassModifier.class
+jvmLearning/chapter09/JavaClassExcuter.class
+jvmLearning/chapter02/JavaVMStackSOF.class
+jvmLearning/chapter02/HeapOOM.class
